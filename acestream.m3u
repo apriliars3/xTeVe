@@ -1,171 +1,367 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://us.123rf.com/450wm/alexwhite/alexwhite1512/alexwhite151204975/49784187-icono-de-prueba.jpg" group-title="ACESTREAM",Test
-http://192.168.1.52:6878/ace/getstream?id=8819c851e10adc18ad914805ec4a13ddfb67063c
-#EXTINF:-1 tvg-chno="" tvg-id="LaLiga TV Bar HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png" group-title="ACESTREAM",LaLiga TV Bar 1080
-http://192.168.1.52:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
-#EXTINF:-1 tvg-chno="" tvg-id="LaLiga TV Bar HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png" group-title="ACESTREAM",LaLiga TV Bar 720
-http://192.168.1.52:6878/ace/getstream?id=e3249feb41ca1e68f38cf9bd9a196d6b3f873032
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA.png" group-title="ACESTREAM",LaLiga 1080 MultiAudio
-http://192.168.1.52:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA.png" group-title="ACESTREAM",LaLiga 1080 MultiAudio v2
-http://192.168.1.52:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA.png" group-title="ACESTREAM",LaLiga 1080
-http://192.168.1.52:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA.png" group-title="ACESTREAM",LaLiga 720
-http://192.168.1.52:6878/ace/getstream?id=5c668adaf86ed6af2488e28d9f3a4e3b0e909664
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga 1 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIG1.png" group-title="ACESTREAM",LaLiga 1 1080
-http://192.168.1.52:6878/ace/getstream?id=4229d640fecf3c0897674241bcf851b67f4310e3
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIG2.png" group-title="ACESTREAM",LaLiga 2 1080
-http://192.168.1.52:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIG2.png" group-title="ACESTREAM",LaLiga 2 720
-http://192.168.1.52:6878/ace/getstream?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga 3 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIG3.png" group-title="ACESTREAM",LaLiga 3 1080
-http://192.168.1.52:6878/ace/getstream?id=2075cf1c981654a5772d8508ecce044375d9ba38
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga 4" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIG4.png" group-title="ACESTREAM",LaLiga 4 1080
-http://192.168.1.52:6878/ace/getstream?id=2c3a3a5b81b5fbe2345eccacad509ced55de828a
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga 5" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIG5.png" group-title="ACESTREAM",LaLiga 5 1080
-http://192.168.1.52:6878/ace/getstream?id=699d5ea3b0132a0e9c2c381a86a669b77384977c
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga 6" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIG6.png" group-title="ACESTREAM",LaLiga 6 1080
-http://192.168.1.52:6878/ace/getstream?id=8021cba61d1e0891a41a6c3334f947360000dc8e
-#EXTINF:-1 tvg-chno="" tvg-id="M+ LaLiga 7" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIG7.png" group-title="ACESTREAM",LaLiga 7 1080
-http://192.168.1.52:6878/ace/getstream?id=1c0bb99925a0d18e075c2fe2cd7cb50946554ab1
-#EXTINF:-1 tvg-chno="" tvg-id="LaLiga SmartbankTV HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20HD.png" group-title="ACESTREAM",LaLiga Smartbank 1080
-http://192.168.1.52:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 tvg-chno="" tvg-id="LaLiga SmartbankTV HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20HD.png" group-title="ACESTREAM",LaLiga Smartbank 720
-http://192.168.1.52:6878/ace/getstream?id=ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
-#EXTINF:-1 tvg-chno="" tvg-id="LaLiga SmartbankTV M2 HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20M2%20HD.png" group-title="ACESTREAM",LaLiga Smartbank 2 1080
-http://192.168.1.52:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 tvg-chno="" tvg-id="LaLiga SmartbankTV M2 HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20M2%20HD.png" group-title="ACESTREAM",LaLiga Smartbank 2 720
-http://192.168.1.52:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
-#EXTINF:-1 tvg-chno="" tvg-id="LaLiga SmartbankTV M3 HD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20M3%20HD.png" group-title="ACESTREAM",LaLiga Smartbank 3 1080
-http://192.168.1.52:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
-#EXTINF:-1 tvg-chno="" tvg-id="M+ #Vamos HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/VAMOSD.png" group-title="ACESTREAM",#Vamos 1080
-http://192.168.1.52:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 tvg-chno="" tvg-id="M+ #Vamos HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/VAMOSD.png" group-title="ACESTREAM",#Vamos 720
-http://192.168.1.52:6878/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Ellas #V HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MELLAV.png" group-title="ACESTREAM",#Ellas 720
-http://192.168.1.52:6878/ace/getstream?id=71e9e4c66a271ff58beb76792e01eeb6a1dde746
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Deportes HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CPDEP.png" group-title="ACESTREAM",Deportes 1080
-http://192.168.1.52:6878/ace/getstream?id=8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Deportes HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CPDEP.png" group-title="ACESTREAM",Deportes 720
-http://192.168.1.52:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Deportes 1 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/ARTHUR.png" group-title="ACESTREAM",Deportes 1 1080
-http://192.168.1.52:6878/ace/getstream?id=c47f756750190e4b2a9eefe8afdac48a2203b8d6
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Deportes 2" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/USOP2.png" group-title="ACESTREAM",Deportes 2 1080
-http://192.168.1.52:6878/ace/getstream?id=f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Deportes 3" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/USOP3.png" group-title="ACESTREAM",Deportes 3 1080
-http://192.168.1.52:6878/ace/getstream?id=ecf2096f9f612a70638d644fb621472a3ddaeb20
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Deportes 4" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/USOP11.png" group-title="ACESTREAM",Deportes 4 1080
-http://192.168.1.52:6878/ace/getstream?id=08db089084ddbaceba7c239817407bf99708b9ad
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Deportes 5" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MULTI8.png" group-title="ACESTREAM",Deportes 5 1080
-http://192.168.1.52:6878/ace/getstream?id=ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Deportes 6" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MULTI6.png" group-title="ACESTREAM",Deportes 6 720
-http://192.168.1.52:6878/ace/getstream?id=f41bd6f3eed3fa2f561e39a9865df8ab354bf486
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAPIO.png" group-title="ACESTREAM",Liga de Campeones 1080
-http://192.168.1.52:6878/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAPIO.png" group-title="ACESTREAM",Liga de Campeones 1080 v2
-http://192.168.1.52:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAPIO.png" group-title="ACESTREAM",Liga de Campeones 720
-http://192.168.1.52:6878/ace/getstream?id=444b51b2606cba9efb1b4ff56bf652cbc02a5f47
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 1 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP1.png" group-title="ACESTREAM",Liga de Campeones 1 1080
-http://192.168.1.52:6878/ace/getstream?id=9b76d0739f87555ccd3f42fc8e548762a0b94c28
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP1.png" group-title="ACESTREAM",Liga de Campeones 2 1080
-http://192.168.1.52:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 2 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP1.png" group-title="ACESTREAM",Liga de Campeones 2 720
-http://192.168.1.52:6878/ace/getstream?id=2d584c7335ff44f97c3cf64947892ef30fde715c
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 3" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP2.png" group-title="ACESTREAM",Liga de Campeones 3 1080
-http://192.168.1.52:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 3" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP2.png" group-title="ACESTREAM",Liga de Campeones 3 720
-http://192.168.1.52:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 4" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP3.png" group-title="ACESTREAM",Liga de Camepones 4 SD
-http://192.168.1.52:6878/ace/getstream?id=1a1b528109edead1904e3dbff575637a452dd1fa
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 5" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP4.png" group-title="ACESTREAM",Liga de Camepones 5 SD
-http://192.168.1.52:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 6" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP5.png" group-title="ACESTREAM",Liga de Camepones 6 SD
-http://192.168.1.52:6878/ace/getstream?id=e9950ec551124c490ecbc2526a83d2c5a4516293
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 7" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP6.png" group-title="ACESTREAM",Liga de Camepones 7 SD
-http://192.168.1.52:6878/ace/getstream?id=d84a90adb6998083403f610ab3fae340b5711b1e
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 8" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP7.png" group-title="ACESTREAM",Liga de Camepones 8 SD
-http://192.168.1.52:6878/ace/getstream?id=fdd9e3660059051660dbd7857443c2b807f258d0
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 9" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP8.png" group-title="ACESTREAM",Liga de Camepones 9 SD
-http://192.168.1.52:6878/ace/getstream?id=69c95dc47b35dde559a6ef025c1b91c89646a17f
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 10" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP9.png" group-title="ACESTREAM",Liga de Camepones 10 SD
-http://192.168.1.52:6878/ace/getstream?id=df67afe5c5f5e82a3ae629d126727b006b65e676
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 11" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP10.png" group-title="ACESTREAM",Liga de Camepones 11 SD
-http://192.168.1.52:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
-#EXTINF:-1 tvg-chno="" tvg-id="M+ Liga de Campeones 12" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/CHAP11.png" group-title="ACESTREAM",Liga de Camepones 12 SD
-http://192.168.1.52:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/GOLF+.png" group-title="ACESTREAM",Golf 1080
-http://192.168.1.52:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="ACESTREAM",DAZN LaLiga 1080 MultiAudio
-http://192.168.1.52:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="ACESTREAM",DAZN LaLiga 1080 MultiAudio v2
-http://192.168.1.52:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="ACESTREAM",DAZN LaLiga 720
-http://192.168.1.52:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" group-title="ACESTREAM",DAZN LaLiga 2 720 MultiAudio
-http://192.168.1.52:6878/ace/getstream?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/M1SD.png" group-title="ACESTREAM",DAZN 1 1080
-http://192.168.1.52:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/M1SD.png" group-title="ACESTREAM",DAZN 1 720
-http://192.168.1.52:6878/ace/getstream?id=47c6e8dadfba2b3bd013feecf4194ecceec428cd
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/M2SD.png" group-title="ACESTREAM",DAZN 2 1080
-http://192.168.1.52:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/M2SD.png" group-title="ACESTREAM",DAZN 2 720
-http://192.168.1.52:6878/ace/getstream?id=704c3c92aafbcf3234c88a4be5fd98fcbd238d85
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/DAZN3.png" group-title="ACESTREAM",DAZN 3 1080
-http://192.168.1.52:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/DAZN4.png" group-title="ACESTREAM",DAZN 4 1080
-http://192.168.1.52:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MVF1.png" group-title="ACESTREAM",DAZN F1 1080
-http://192.168.1.52:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MVF1.png" group-title="ACESTREAM",DAZN F1 1080 v2
-http://192.168.1.52:6878/ace/getstream?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MVF1.png" group-title="ACESTREAM",DAZN F1 1080 v3
-http://192.168.1.52:6878/ace/getstream?id=5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MVF1.png" group-title="ACESTREAM",DAZN F1 1080 v4
-http://192.168.1.52:6878/ace/getstream?id=ffaa5f556ee0497ad905208d317b1f3ed4c0914b
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MVF1.png" group-title="ACESTREAM",DAZN F1 720
-http://192.168.1.52:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MVF1.png" group-title="ACESTREAM",DAZN F1 720 v2
-http://192.168.1.52:6878/ace/getstream?id=a4d17dec3b341fb4c10afab81068dca29c5e9a4a
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/GOL.png" group-title="ACESTREAM",GOL TV 1080
-http://192.168.1.52:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/ESP.png" group-title="ACESTREAM",EuroSport 1 1080
-http://192.168.1.52:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/ESP2.png" group-title="ACESTREAM",Eurosport 2 1080
-http://192.168.1.52:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/TDEP.png" group-title="ACESTREAM",TDP 1080
-http://192.168.1.52:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/TVE.png" group-title="ACESTREAM",La 1 1080
-http://192.168.1.52:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/TVE.png" group-title="ACESTREAM",La 1 1080 v2
-http://192.168.1.52:6878/ace/getstream?id=b41d52a733be6f4709db3bdf33e260de2b67d27a
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/TVE.png" group-title="ACESTREAM",La 1 UHD
-http://192.168.1.52:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/C4.png" group-title="ACESTREAM",Cuatro 1080
-http://192.168.1.52:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/T5.png" group-title="ACESTREAM",Telecinco 1080
-http://192.168.1.52:6878/ace/getstream?id=cbf281d5e481697aa4184fe1de5e069928c95057
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/BEMAD.png" group-title="ACESTREAM",BeMad 1080
-http://192.168.1.52:6878/ace/getstream?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/BARNA.png" group-title="ACESTREAM",Barça 720
-http://192.168.1.52:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 tvg-chno="" tvg-id="#0 HD" tvg-name="#0 por M+" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MV3.png" group-title="ACESTREAM",#0 1080
-http://192.168.1.52:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/SPORT%20TV%201%20HD.png" group-title="ACESTREAM",Sport TV 1 1080
-http://192.168.1.52:6878/ace/getstream?id=c95422bc904378be0b035eba721d5e6a004f7d79
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/SPORT%20TV%202%20HD.png" group-title="ACESTREAM",Sport TV 2 1080
-http://192.168.1.52:6878/ace/getstream?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/SPORT%20TV%203%20HD.png" group-title="ACESTREAM",Sport TV 3 1080
-http://192.168.1.52:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://mpng.subpng.com/20180629/fgr/kisspng-bein-sports-1-bein-sports-2-television-channel-bein-sport-5b36e2e498cf78.0458857615303236846259.jpg" group-title="ACESTREAM",Bein Sport 1080
-http://192.168.1.52:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="ACESTREAM",ESPN Colombia
-http://192.168.1.52:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="ACESTREAM",ESPN 2 Colombia
-http://192.168.1.52:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="ACESTREAM",ESPN 3 Colombia
-http://192.168.1.52:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="ACESTREAM",ESPN ExTRA Colombia
-http://192.168.1.52:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTM3U
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 1080 (Fórmula 1)
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 1080 (Fórmula 1)
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 1080 (Fórmula 1)
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 720 (Fórmula 1)
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga 1080P
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga 1080 MultiAudio
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga 1080 MultiAudio
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga 720
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga 2 1080
+acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga 2 720
+acestream://f31a586422c9244196c810c84b6c85da350318a5
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga 3 1080
+acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga 3 720
+acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga 4 1080
+acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
+#EXTINF:-1, group-title="Elcano.top",La Liga BAR 1080
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 1080 MultiAudio
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 1080 MultiAudio
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 1080 MultiAudio
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 720
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 2 1080 MultiAudio
+acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:-1, group-title="Elcano.top",DAZN LaLiga 2 720 MultiAudio
+acestream://97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1, group-title="Elcano.top",LaLiga Smartbank 1080
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1, group-title="Elcano.top",LaLiga Smartbank 720
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1, group-title="Elcano.top",LaLiga Smartbank 2 1080
+acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:-1, group-title="Elcano.top",LaLiga Smartbank 2 720
+acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:-1, group-title="Elcano.top",LaLiga Smartbank 3
+acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES FHD --> NEW ERA II
+acestream://d59b3e44af69deb11759f1b4016503ef08d7850f
+#EXTINF:-1, group-title="Elcano.top",#VAMOS FHD --> NEW ERA II
+acestream://915d7ba83810a8039b908b1a2855a1db4d79459d
+#EXTINF:-1, group-title="Elcano.top",#VAMOS ELLAS  FHD --> NEW ERA II
+acestream://bb8a53e9178d49a4a5f4fd1eb32edb1aad2c5c9d
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 FHD --> NEW ERA II
+acestream://1168fcb4506c60e1281c2443f4f0c4ad4fc494b6
+#EXTINF:-1, group-title="Elcano.top",LaLiga TV BAR FHD --> NEW ERA II
+acestream://edbd01a232af0eff375c6a174e68f28002e7c090
+#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV FHD --> NEW ERA II
+acestream://da368e734b639e993b610bcfb779a76e03ad9409
+#EXTINF:-1, group-title="Elcano.top",EUROSPORT 2 FHD --> NEW ERA II
+acestream://b1797c899abe3cbf7a075d2814bfbb0375832c7d
+#EXTINF:-1, group-title="Elcano.top",M.L. CAMPEONES 2
+acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1, group-title="Elcano.top",MOVISTAR PLUS
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 2
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 3
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 4
+acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 5
+acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 6
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
+#EXTINF:-1, group-title="Elcano.top",M DEPORTES 7
+acestream://070f82d6443a52962d6a2ed9954c979b29404932
+#EXTINF:-1, group-title="Elcano.top",DAZN 1
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1, group-title="Elcano.top",DAZN 2
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1, group-title="Elcano.top",DAZN 2
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1, group-title="Elcano.top",M #VAMOS
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1, group-title="Elcano.top",M #VAMOS
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1, group-title="Elcano.top",EuroSport
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1, group-title="Elcano.top",Copa del Rey
+acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
+#EXTINF:-1, group-title="Elcano.top",DAZN LA LIGA FHD (SATT) --> NEW ERA
+acestream://b2aaaa6957acd2fac4184cf44821bb27eeb61b70
+#EXTINF:-1, group-title="Elcano.top",DAZN LIGA FHD --> NEW ERA
+acestream://711e971c2c5fafc8a95f4a70ea16c0cb7da955d9
+#EXTINF:-1, group-title="Elcano.top",DAZN LA LIGA 2 FHD --> NEW ERA
+acestream://4b38a91cc7ca46748fef4743ac0b5d193a701f8c
+#EXTINF:-1, group-title="Elcano.top",DAZN BAR 1 FHD --> NEW ERA
+acestream://5cadba9736e0ecc0c0051e07f2339aeaa474e486
+#EXTINF:-1, group-title="Elcano.top",DAZN BAR 2 FHD --> NEW ERA
+acestream://d59ad07b387faf6fbb16f17f44cd80ec8f16e96b
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 FHD (SAT) --> NEW ERA
+acestream://dea87ce042a085fb892c12d1bf3be428e824237d
+#EXTINF:-1, group-title="Elcano.top",F1 TV 14 | Fernando Alonso | Aston Martin --> NEW ERA
+acestream://f40baf2e9165ce5dec1d4fa1ecb5e0475ab7b3b0
+#EXTINF:-1, group-title="Elcano.top",F1 TV 55 | Carlos Sainz | Williams --> NEW ERA
+acestream://bdc433cb4fa52c4e66e7258afd12f7aec247814e
+#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 1 --> NEW ERA
+acestream://d59e1e43684d27f24348ccd21754b7a438826b42
+#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 2 --> NEW ERA
+acestream://11278b69a588c83592ecbf054cfca1fc45542b64
+#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 3 --> NEW ERA
+acestream://fc9a5087ba3749d67de63607f3b29a42446b5fba
+#EXTINF:-1, group-title="Elcano.top",MGPTV | Camara de a bordo 4 --> NEW ERA
+acestream://cf6f689178b73bea2dc0f6e206ffa40894ceafe9
+#EXTINF:-1, group-title="Elcano.top",DAZN EVENTOS 1 --> NEW ERA
+acestream://b30a0318f531cae1233a11e8cda12f4cc39941c3
+#EXTINF:-1, group-title="Elcano.top",DAZN EVENTOS 2 --> NEW ERA
+acestream://bed372c0cfd3c24090bf8c479719b5765d74be6d
+#EXTINF:-1, group-title="Elcano.top",DAZN EVENTOS 3 --> NEW ERA
+acestream://5b5e0a59ea2c0ab00189def5927d66d709835d15
+#EXTINF:-1, group-title="Elcano.top",DAZN BUNDESLIGA 1 FHD --> NEW ERA
+acestream://744d75861b7961ffc785f6f9edc36396fe610695
+#EXTINF:-1, group-title="Elcano.top",DAZN BUNDESLIGA 2 FHD --> NEW ERA
+acestream://5c406a4af1bb51fdf53bea78e7d7a95b6d1fb9d3
+#EXTINF:-1, group-title="Elcano.top",DAZN BUNDESLIGA 3 FHD --> NEW ERA
+acestream://8b1f169fa965eb6fccff8cb78590beba84a8ab56
+#EXTINF:-1, group-title="Elcano.top",Gol Play FHD --> NEW ERA
+acestream://74398fdfd56c2d440d53206cd1a4d0549a13aa6b
+#EXTINF:-1, group-title="Elcano.top",Teledeporte FHD --> NEW ERA
+acestream://3977c21113c3b89d1ee1a2da7ea5d41769b133f9
+#EXTINF:-1, group-title="Elcano.top",DAZN 1 FHD (SAT) --> NEW ERA
+acestream://46a672a4dfc910eebcf869d48a2efec2af1b54d7
+#EXTINF:-1, group-title="Elcano.top",MOVISTAR GOLF FHD --> NEW ERA
+acestream://6b3989747ca94e5d75875a97b4ed843d1a8d43bc
+#EXTINF:-1, group-title="Elcano.top",MOVISTAR GOLF 2 FHD --> NEW ERA
+acestream://455735de568bcf97bbbd1ddf3f7d173a62a159f2
+#EXTINF:-1, group-title="Elcano.top",MOVISTAR SERIES FHD --> NEW ERA
+acestream://580ea2fdb0bd52db7877648cbd3a586ff4677217
+#EXTINF:-1, group-title="Elcano.top",MOVISTAR CLASICOS FHD --> NEW ERA
+acestream://a6cade7fbdee40e60808ec0e568f7668d390b4e2
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD (1 opcion) --> NEW ERA
+acestream://94054b2e5e330bfdec93b63db5bbe42d15c3fd88
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://555e59eafc481f9bace87064ec0a2e1cbff35c46
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD (SAT) --> NEW ERA
+acestream://f51ea08b180c4d916a9cb9f33049cd9644284641
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://a6592d8203205ed4156d557cf7e89cd171a0e3cd
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://4b445a510e487162cb4e8dd76db4f205b61d5584
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 3 FHD --> NEW ERA
+acestream://a2737f92238d98040d7c6a1866156bf31c5677dd
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 4 FHD --> NEW ERA
+acestream://525c14ea1d5cc446a1c6b6ce3c5d68f2e5060b50
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 5 FHD --> NEW ERA
+acestream://29762a55736038653c9de6b5c1ef15c93faf9c6d
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 6 FHD --> NEW ERA
+acestream://4c30a8d91113a5844f4e169bf99a99e1cb8aa309
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 7 FHD --> NEW ERA
+acestream://1bedb890da11e72038914a13187ea50929c9aec0
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 8 FHD --> NEW ERA
+acestream://5e1b4b2babaa473633cf1cd845ead7ff6b6fe0e7
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 9 FHD --> NEW ERA
+acestream://38c6320b298c093badbc10fd130dde90d64bc092
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 10 FHD --> NEW ERA
+acestream://d702abb3ed56ba7fa35e63daa9f6f14936a75792
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 11 FHD --> NEW ERA
+acestream://2a489907edaf1275e2209e5a4fed9c19e6798463
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 12 FHD --> NEW ERA
+acestream://c098f002d0d35baca4baf597d3ef567d68ee48c8
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 13 FHD --> NEW ERA
+acestream://548ea66bb8e4663a5bf0d2dede22d353f3994787
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 14 SD --> NEW ERA
+acestream://28e7c2f22073b01b664f795ed8ba638c4d654f03
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 15 SD --> NEW ERA
+acestream://4615b5519344eb343b53c07ee74cbea7f08b2ed0
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 16 SD --> NEW ERA
+acestream://399d7931525f0868c706e1c1dc040cef0d44cae9
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 17 SD --> NEW ERA
+acestream://35b0f9dd56626c3e009afe79f6507ec06e284c50
+#EXTINF:-1, group-title="Elcano.top",M+ Super Copa (SAT) --> NEW ERA
+acestream://08bf74b427c432b974712d1d950eacaa513287e5
+#EXTINF:-1, group-title="Elcano.top",M+ Super Copa --> NEW ERA
+acestream://76eaa5f815461cac46700b5313b84d363297871b
+#EXTINF:-1, group-title="Elcano.top",M+ SuperCopa del Rey FHD --> NEW ERA
+acestream://bbd6cd7d0c137aaf2dc6e7c936fd45d7eaea49e2
+#EXTINF:-1, group-title="Elcano.top",M+ LaLiga FHD --> NEW ERA
+acestream://86541e760681d3f51b4e9f7b4b3997beb38307b0
+#EXTINF:-1, group-title="Elcano.top",M+ LaLiga FHD (SAT) --> NEW ERA
+acestream://6e7ac91952e5c8f45d38c4b1669221bed4800813
+#EXTINF:-1, group-title="Elcano.top",M+ LaLiga FHD --> NEW ERA
+acestream://e954376315de5608543ff24982af6e682e669af2
+#EXTINF:-1, group-title="Elcano.top",M+ LaLiga 2 FHD --> NEW ERA
+acestream://96c4350d8548d40574f70c51b1469e32de756c0a
+#EXTINF:-1, group-title="Elcano.top",M+ LaLiga 3 FHD --> NEW ERA
+acestream://95fb628a3503375c0f5cbf6522f37227993bafce
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 FHD --> NEW ERA
+acestream://b2543904857ebc4689f1b6659c09a94c6f661c41
+#EXTINF:-1, group-title="Elcano.top",DAZN 1 FHD --> NEW ERA
+acestream://20e01f934e60fe20feac8e14806cce08a2a2bf43
+#EXTINF:-1, group-title="Elcano.top",DAZN 2 FHD --> NEW ERA
+acestream://c72693d177253473288fabc0827b8fefa9d5f7cf
+#EXTINF:-1, group-title="Elcano.top",DAZN 3 FHD --> NEW ERA
+acestream://4a917dd906465938400c6968e707fe2a768c5c05
+#EXTINF:-1, group-title="Elcano.top",DAZN 4 FHD --> NEW ERA
+acestream://1b35844ac5f1ca48cbf760c7ed425078e7138aba
+#EXTINF:-1, group-title="Elcano.top",#VAMOS FHD (SAT) --> NEW ERA
+acestream://535b56ba59c01069ed4c87235504ecfd84162e0e
+#EXTINF:-1, group-title="Elcano.top",#VAMOS FHD --> NEW ERA
+acestream://a432081ef17e77c3accf74aa1c4e5009b9f5047e
+#EXTINF:-1, group-title="Elcano.top",#VAMOS ELLAS  FHD --> NEW ERA
+acestream://1b265fcd2d4ebeeb5516f838d175a8818e04e298
+#EXTINF:-1, group-title="Elcano.top",EUROSPORT 1 FHD --> NEW ERA
+acestream://1d735b29ca242360ffe84c677cc02a3817311960
+#EXTINF:-1, group-title="Elcano.top",EUROSPORT 1 FHD --> NEW ERA
+acestream://a9f8efad7aa5cd61ddd07f6c3575aed7aa553f49
+#EXTINF:-1, group-title="Elcano.top",EUROSPORT 2 FHD --> NEW ERA
+acestream://87100f6c8f6ffaf78eeb9b7eef0e9b382ffe61ff
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES FHD --> NEW ERA
+acestream://43daa66ed37acb82c3b3cd5e597428d23b9d2b88
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 2 FHD --> NEW ERA
+acestream://26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1, group-title="Elcano.top",M+ ACCION FHD --> NEW ERA
+acestream://4589a5762f6b3be7e290b48ea11c0eac8c18884b
+#EXTINF:-1, group-title="Elcano.top",M+ PLUS 2 FHD --> NEW ERA
+acestream://6337ce87035e8790c1146719725d57739f0a0fb2
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 3 FHD  --> NEW ERA
+acestream://17000ca03379418a24ba7bca8ef93192270cd5c9
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 4 FHD --> NEW ERA
+acestream://6a4145f8994fcff2ea581c89d1cf25dfac48c822
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES 5 HD --> NEW ERA
+acestream://42af19430acd9c4198a4649ad4017a1a9c3e39fe
+#EXTINF:-1, group-title="Elcano.top",UFC Fight Pass --> NEW ERA
+acestream://3048b9c384eaf16734c337c08aabc50ea3e6c5e4
+#EXTINF:-1, group-title="Elcano.top",NBA TV --> NEW ERA
+acestream://59377bc73bedf81c5f20a327e09e5fc5f76bdc5f
+#EXTINF:-1, group-title="Elcano.top",NBA NETWORK --> NEW ERA
+acestream://d6a01276e7b5e533ebb7f03f825a459a2ee7aef0
+#EXTINF:-1, group-title="Elcano.top",LA 1 FHD --> NEW ERA
+acestream://dc913528dfdfdba2d58dfd817bdc1610ab236c4e
+#EXTINF:-1, group-title="Elcano.top",LA 2 FHD --> NEW ERA
+acestream://40fad5c4ddb3b99c99674bc22a82fc4d90ec669d
+#EXTINF:-1, group-title="Elcano.top",ANTENA 3 FHD --> NEW ERA
+acestream://a90b3dfd3fd5a84f6a7d270f19fb8dfade0b3c0b
+#EXTINF:-1, group-title="Elcano.top",CUATRO FHD --> NEW ERA
+acestream://a53ebebd85c554af42f752595cb7c9c32255c0f4
+#EXTINF:-1, group-title="Elcano.top",TELECINCO FHD --> NEW ERA
+acestream://3e73fe77d956b07ff233cdb3b89966fae33391e6
+#EXTINF:-1, group-title="Elcano.top",LA SEXTA FHD --> NEW ERA
+acestream://11a75922c4a1983ad3a4936ca9e16e889daec37b
+#EXTINF:-1, group-title="Elcano.top",M+ PLUS FHD --> NEW ERA
+acestream://a6c4e14f373adaf466e9a335f86f604444d059b5
+#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV FHD --> NEW ERA
+acestream://714e36c758444ec594660149666dc7b642ceb030
+#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV2 HD --> NEW ERA
+acestream://11b2efc1062a8e0096c923bef49e9cbf5ca92db8
+#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV 3 FHD --> NEW ERA
+acestream://99be70a8d6fd9eb4cc3980236cab4f2cfc62c909
+#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV4 FHD --> NEW ERA
+acestream://0829094f216f639b2ac2d00b6cccce6585de6c7b
+#EXTINF:-1, group-title="Elcano.top",LALIGA HYPERMOTION TV5 FHD --> NEW ERA
+acestream://061f42fcaa7632fb0a889272a731036d033cddf5
+#EXTINF:-1, group-title="Elcano.top",DAZN LA LIGA 2 FHD (*) --> NEW ERA
+acestream://0a54d530717aa50cb65672a92efa5948286e492c
+#EXTINF:-1, group-title="Elcano.top",DAZN 1 BAR FHD (*) --> NEW ERA
+acestream://3709d3c2005ba9b407c8babbdaa2439cbe8242ed
+#EXTINF:-1, group-title="Elcano.top",DAZN F1 FHD (*) --> NEW ERA
+acestream://16d0bc18559f9bf853010c654080123109e4044f
+#EXTINF:-1, group-title="Elcano.top",DAZN 1 FHD (*) --> NEW ERA
+acestream://719df957aad6dac822ba53a65dd8f78e10faef9a
+#EXTINF:-1, group-title="Elcano.top",DAZN 2 FHD (*) --> NEW ERA
+acestream://bf0bad0bb75ff95fa6841ee21adfb0cfe18b8435
+#EXTINF:-1, group-title="Elcano.top",DAZN 3 FHD (*) --> NEW ERA
+acestream://eab9da2d81938c22221ee2043bd6f42691116b6d
+#EXTINF:-1, group-title="Elcano.top",DAZN 4 FHD (*) --> NEW ERA
+acestream://ce11e4e1a141f5d9538ad0cce452bfc317032ed5
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD (*) --> NEW ERA
+acestream://e5c3a8445064b51c99e62abd01a2ba015c914278
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES FHD (*) --> NEW ERA
+acestream://87fbb0ddc5920b1953741b99c63f0fd0e5f94814
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 2 FHD (*) --> NEW ERA
+acestream://6cd53fbbf4e1cbe3e8d794ed3ffd26854af600b2
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 2 FHD (*) --> NEW ERA
+acestream://c330d19436e5b56b29f3de4c1df5b5eb732d247d
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 3 FHD (*) --> NEW ERA
+acestream://2dc7b50512b2038cdef3198afdad6a825a9b6a32
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 3 FHD (*) --> NEW ERA
+acestream://d6b1a6748c90eff83989514bf6bf010c3b87d470
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 4 FHD (*) --> NEW ERA
+acestream://60b2c4ca8dc8f29db0ef7d94c447e092e8b022b2
+#EXTINF:-1, group-title="Elcano.top",M+ LIGA DE CAMPEONES 5 FHD (*) --> NEW ERA
+acestream://7e0adcb774f48929ce0581bc8b7b327d0bacc1cb
+#EXTINF:-1, group-title="Elcano.top",M+ Super Copa (*) --> NEW ERA
+acestream://9fd0ad6591be70c5c31b7659162cf67ae2dff16e
+#EXTINF:-1, group-title="Elcano.top",M+ Super Copa (*) --> NEW ERA
+acestream://440fc0139d2ea66c7680b6df85512eaf4dee446a
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES FHD (*) --> NEW ERA
+acestream://0569aee1644145a026c120019024a61398ecbd97
+#EXTINF:-1, group-title="Elcano.top",M+ DEPORTES FHD 2 (*) --> NEW ERA
+acestream://c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1, group-title="Elcano.top",#VAMOS FHD (*) --> NEW ERA
+acestream://62662d67c3c616acceb09d88600dcddb4d59af4a
+#EXTINF:-1, group-title="Elcano.top",DAZN LA LIGA FHD (*) --> NEW ERA
+acestream://c7e5f55d71e02b43f18b22b07a294bdf87822aa4
+#EXTINF:-1, group-title="Elcano.top",RALLY TV --> NEW ERA III (Solo eventos)
+acestream://1a9085a7b8aa402f317fb86f7243f3736770b325
+#EXTINF:-1, group-title="Elcano.top",M+ LALIGA --> NEW ERA III
+acestream://7c70daff87373a903d92490ad3dc811723969e08
+#EXTINF:-1, group-title="Elcano.top",DAZN LALIGA --> NEW ERA III
+acestream://a5144874f66a0872fd0b5a484cd426eb7d8eaa26
+#EXTINF:-1, group-title="Elcano.top",DAZN FORMULA 1* --> NEW ERA III
+acestream://073d33a5e5270399154bb251fcc95f99c0741264
+#EXTINF:-1, group-title="Elcano.top",M. Deportes HD --> NEW LOOP
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1, group-title="Elcano.top",M. Golf HD --> NEW LOOP
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga --> NEW LOOP
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1, group-title="Elcano.top",M. LaLiga --> NEW LOOP
+acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde
+#EXTINF:-1, group-title="Elcano.top",M. Liga de Campeones --> NEW LOOP
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1, group-title="Elcano.top",DAZN1 --> NEW LOOP
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1, group-title="Elcano.top",DAZN2 --> NEW LOOP
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1, group-title="Elcano.top",DAZN3 --> NEW LOOP
+acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1, group-title="Elcano.top",DAZN4 --> NEW LOOP
+acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1, group-title="Elcano.top",Eurosport 1 HD --> NEW LOOP
+acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1, group-title="Elcano.top",Eurosport 1 hd --> NEW LOOP
+acestream://23a4937f1484b435af132dbfb3e8fd3aefc9baad
+#EXTINF:-1, group-title="Elcano.top",Sky Sports Arena [UK] --> NEW LOOP
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1, group-title="Elcano.top",Sky Sports Cricket [UK] --> NEW LOOP
+acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1, group-title="Elcano.top",Sky Sports Football [UK] --> NEW LOOP
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1, group-title="Elcano.top",Sky Sports Main Event [UK] --> NEW LOOP
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1, group-title="Elcano.top",AutoMotorSport HD --> NEW LOOP
+acestream://6791a2d1587e8c68eac10815f22aed439b0f6c9f
+#EXTINF:-1, group-title="Elcano.top",Canal Motor (720p) --> NEW LOOP
+acestream://31ef168d43c7cd04e672475f7ec33b99b9fe5a96
+#EXTINF:-1, group-title="Elcano.top",Motors TV HD --> NEW LOOP
+acestream://8d475e2688519f2c602687b71be54cedbaef9e6b
+#EXTINF:-1, group-title="Elcano.top",Motorvision TV --> NEW LOOP
+acestream://fffaa64d41e500250064181762d510d513137410
+#EXTINF:-1, group-title="Elcano.top",Retrovision Motor --> NEW LOOP
+acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
+#EXTINF:-1, group-title="Elcano.top",SuperTennis HD --> NEW LOOP
+acestream://b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1, group-title="Elcano.top",Tennis Channel (UK) (720p) --> NEW LOOP
+acestream://52a526d748e26ff0827635b3932d9f49aee14a25
+#EXTINF:-1, group-title="Elcano.top",Tennis Channel HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
